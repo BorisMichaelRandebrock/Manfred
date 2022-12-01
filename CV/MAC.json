@@ -1,0 +1,353 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Boris",
+      "surnames": "Michael Randebrock",
+      "title": "Front End Developer - Back End Developer | React |NextJS | Redux | Node | Javascript | Mongo | Jest | Express",
+      "description": "👋 Hi, I’m Boris Michael Randebrock &nbsp; \n### 👨‍💻 About me:        \n\nAfter having spent eight months studying at Isdi Coders, I can today present myself as a Full Stack Web Developer capable of building fully functional Web Apps.&nbsp;\n\nStill practising a lot to fix all those concepts and technologies I just learned.\n\nI feel prepared, though, to face any professional challenge offering the most of my capabilities, energy and time to continue learning and rapidly growing. ",
+      "location": {
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/boris-michael-randebrock/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Jul 2010 - Dec 2012 "
+        },
+        "roles": [
+          {
+            "name": "Senior Sales Manager",
+            "startDate": "2022-11-18",
+            "challenges": [
+              {
+                "description": "Senior Sales Manager"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sep 2008 - Jul 2010 "
+        },
+        "roles": [
+          {
+            "name": "Sales Manager",
+            "startDate": "2022-11-18",
+            "challenges": [
+              {
+                "description": "Sales Manager"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Career Break"
+        },
+        "roles": [
+          {
+            "name": "Career transition",
+            "startDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "Desde principios de año me he dedicado intensamente a prepararme como programador Fullstack.\nRecientemente he finalizado un Bootcamp inmersivo como Fullstack Developer en ISDI coders Barcelona,"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Salvat Logistica S.A. "
+        },
+        "roles": [
+          {
+            "name": "Comercial",
+            "startDate": "2020-10-01",
+            "finishDate": "2020-12-31",
+            "challenges": [
+              {
+                "description": " helped me get this job"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Luís Simões Logística Integrada, S.A. "
+        },
+        "roles": [
+          {
+            "name": "Coordinador Business Development Catalunya & Levante",
+            "startDate": "2016-09-01",
+            "finishDate": "2019-11-30",
+            "challenges": [
+              {
+                "description": "Skills: Trabajo en equipo"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "VESTA Logistic Company"
+        },
+        "roles": [
+          {
+            "name": "Sales Manager",
+            "startDate": "2016-02-01",
+            "finishDate": "2016-08-31",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Acciona Logística"
+        },
+        "roles": [
+          {
+            "name": "Comercial",
+            "startDate": "2015-02-01",
+            "finishDate": "2016-02-28",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "4 yrs 4 mos"
+        },
+        "roles": [
+          {
+            "name": "Vos Logistics",
+            "startDate": "2010-07-01",
+            "finishDate": "2012-12-31",
+            "challenges": [
+              {
+                "description": "Senior Sales Manager"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Vos Logistics"
+        },
+        "roles": [
+          {
+            "name": "Senior Sales Manager",
+            "startDate": "2008-07-01",
+            "finishDate": "2012-12-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Campillo Palmera"
+        },
+        "roles": [
+          {
+            "name": "Sales Manager",
+            "startDate": "2007-09-01",
+            "finishDate": "2008-08-31",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Transportes J. Carrión"
+        },
+        "roles": [
+          {
+            "name": "Sales",
+            "startDate": "2006-06-01",
+            "finishDate": "2007-08-31",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Transmallorca"
+        },
+        "roles": [
+          {
+            "name": "Sales",
+            "startDate": "2004-02-01",
+            "finishDate": "2006-05-31",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Catalan",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "English",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "French",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "German",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Italian",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Quasar",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/boris-michael-randebrock/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Jest",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "Quasar",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Redux",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer",
+        "QA & Testing Engineer"
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
