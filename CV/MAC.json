@@ -374,6 +374,24 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "Jest",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "Vue",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "I would like to work in a modern web development company, continued learning and implementing newest technologies.\nTeamwork is one of my driving features and I love solving problems and finding new and smart solutions.\nI am a creative person with a very open mind and therefore I would love to work in a job that challenges me in these aspects .\n",
     "goodPractices": "Writing Clean Code, DRY,  test and I do love TDD (although have not had the chance to implement seriously).\nWorking in CI/CD is a standard as well as atomic-commits on the GitHub."
   }
