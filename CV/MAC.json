@@ -260,6 +260,12 @@
       },
       {
         "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "HTML",
           "type": "technology"
         }
