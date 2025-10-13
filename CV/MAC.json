@@ -1,18 +1,15 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "ES",
-    "MACVersion": "0.3"
+    "language": "EN",
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Boris",
       "surnames": "Michael Randebrock",
       "title": "Front End Developer - Back End Developer | React |NextJS | Redux | Node | Javascript | Mongo | Jest | Express",
-      "description": "👋 Hi, I’m Boris Michael Randebrock &nbsp; \n### 👨‍💻 About me:        \n\nAfter having spent eight months studying at Isdi Coders, I can today present myself as a Full Stack Web Developer capable of building fully functional Web Apps.&nbsp;\n\nStill practising a lot to fix all those concepts and technologies I just learned.\n\nI feel prepared, though, to face any professional challenge offering the most of my capabilities, energy and time to continue learning and rapidly growing. ",
-      "location": {
-        "notes": "Autocompleted using Google Maps API"
-      }
+      "description": "👋 Hi, I’m Boris Michael Randebrock &nbsp; \n### 👨‍💻 About me:        \n\nAfter having spent eight months studying at Isdi Coders, I can today present myself as a Full Stack Web Developer capable of building fully functional Web Apps.&nbsp;\n\nStill practising a lot to fix all those concepts and technologies I just learned.\n\nI feel prepared, though, to face any professional challenge offering the most of my capabilities, energy and time to continue learning and rapidly growing. "
     },
     "relevantLinks": [
       {
@@ -25,22 +22,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Jul 2010 - Dec 2012 "
-        },
-        "roles": [
-          {
-            "name": "Senior Sales Manager",
-            "startDate": "2022-11-18",
-            "challenges": [
-              {
-                "description": "Senior Sales Manager"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Sep 2008 - Jul 2010 "
         },
         "roles": [
@@ -50,6 +31,22 @@
             "challenges": [
               {
                 "description": "Sales Manager"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Jul 2010 - Dec 2012 "
+        },
+        "roles": [
+          {
+            "name": "Senior Sales Manager",
+            "startDate": "2022-11-18",
+            "challenges": [
+              {
+                "description": "Senior Sales Manager"
               }
             ]
           }
@@ -224,46 +221,40 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan",
+        "name": "CA",
+        "fullName": "Catalán / Valenciano",
         "level": "Professional working proficiency"
       },
       {
-        "name": "English",
+        "name": "DE",
+        "fullName": "Alemán",
         "level": "Native or bilingual proficiency"
       },
       {
-        "name": "French",
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "FR",
+        "fullName": "Francés",
         "level": "Limited working proficiency"
       },
       {
-        "name": "German",
-        "level": "Native or bilingual proficiency"
-      },
-      {
-        "name": "Italian",
+        "name": "IT",
+        "fullName": "Italiano",
         "level": "Professional working proficiency"
-      },
-      {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vue",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
+          "name": "CSS",
           "type": "technology"
         }
       },
@@ -275,13 +266,7 @@
       },
       {
         "skill": {
-          "name": "Sass",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -293,14 +278,52 @@
       },
       {
         "skill": {
+          "name": "Quasar",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Redux",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Quasar",
+          "name": "Sass",
           "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Capacity for abstract thinking",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Listening ability",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Team player",
+          "type": "practice"
         }
       }
     ]
@@ -309,8 +332,8 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/boris-michael-randebrock/"
+          "URL": "https://www.linkedin.com/in/boris-michael-randebrock/",
+          "type": "linkedin"
         }
       ]
     },
@@ -349,5 +372,9 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "I would like to work in a modern web development company, continued learning and implementing newest technologies.\nTeamwork is one of my driving features and I love solving problems and finding new and smart solutions.\nI am a creative person with a very open mind and therefore I would love to work in a job that challenges me in these aspects .\n",
+    "goodPractices": "Writing Clean Code, DRY,  test and I do love TDD (although have not had the chance to implement seriously).\nWorking in CI/CD is a standard as well as atomic-commits on the GitHub."
   }
 }
