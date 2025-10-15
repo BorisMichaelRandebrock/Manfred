@@ -22,6 +22,43 @@
     "jobs": [
       {
         "organization": {
+          "name": "Admira"
+        },
+        "roles": [
+          {
+            "name": "Software Programmer",
+            "startDate": "2025-03-01",
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "PHPStorm",
+                "type": "technology"
+              },
+              {
+                "name": "Vagrant",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Career Break"
         },
         "roles": [
