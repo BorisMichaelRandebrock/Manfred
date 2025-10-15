@@ -28,6 +28,11 @@
           {
             "name": "Software Programmer",
             "startDate": "2025-03-01",
+            "challenges": [
+              {
+                "description": "Admira logo\nSoftware Programmer\nSoftware Programmer\nAdmira · FreelanceAdmira · Freelance\nMar 2025 - Present · 8 mosMar 2025 to Present · 8 mos\nBarcelona, Catalonia, Spain · RemoteBarcelona, Catalonia, Spain · Remote\nI am currently working as a freelance backend developer on the migration and modernization of legacy applications built with PHP, CodeIgniter, and MySQL.\nMy responsibilities include:\n\nRefactoring and updating legacy code to adapt it to modern environments.\n\nIdentifying, debugging, and fixing issues resulting from the migration process.\n\nEnsuring application stability and compatibility after code changes.\n\nApplying best development practices to improve performance and maintainability."
+              }
+            ],
             "competences": [
               {
                 "name": "Docker",
