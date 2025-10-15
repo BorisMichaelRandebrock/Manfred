@@ -55,23 +55,6 @@
       },
       {
         "organization": {
-          "name": "VESTA Logistic Company"
-        },
-        "roles": [
-          {
-            "name": "Sales Manager",
-            "startDate": "2016-02-01",
-            "finishDate": "2016-08-31",
-            "challenges": [
-              {
-                "description": "TBD"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Acciona Logística"
         },
         "roles": [
