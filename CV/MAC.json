@@ -22,7 +22,8 @@
     "jobs": [
       {
         "organization": {
-          "name": "Admira"
+          "name": "Admira",
+          "URL": "https://admira.com/en/"
         },
         "roles": [
           {
