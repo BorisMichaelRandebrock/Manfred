@@ -22,22 +22,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Sep 2008 - Jul 2010 "
-        },
-        "roles": [
-          {
-            "name": "Sales Manager",
-            "startDate": "2022-11-18",
-            "challenges": [
-              {
-                "description": "Sales Manager"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Career Break"
         },
         "roles": [
@@ -149,6 +133,23 @@
             "challenges": [
               {
                 "description": "Senior Sales Manager"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Vos Logistics"
+        },
+        "roles": [
+          {
+            "name": "Sales Manager",
+            "startDate": "2008-09-01",
+            "finishDate": "2010-07-01",
+            "challenges": [
+              {
+                "description": "Sales Manager"
               }
             ]
           }
